@@ -5,7 +5,7 @@ class Apps {
         icon, screenshots,devId,functOne,functTwo,functThree,functFour) {
         this.appName = appName;
         this.catagory = catagory,
-        this.description = description,
+        this.description = description,                        
         this.appLocation = appLocation;
         this.icon = icon;
         this.screenshots = screenshots;
